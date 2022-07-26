@@ -4,7 +4,7 @@ Project-Fraud-Detection
 ![Project-Fraud-Detection](https://github.com/RahulSingh409/Fraud_Detection/blob/main/Wordcloud.jpg?raw=true "Project-Fraud-Detection
 ")
 <div id="header">
-  <iframe src="https://giphy.com/embed/IauL6LvGNlT3ffhcqq" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/stickers/10Clouds-computer-10clouds-10c-IauL6LvGNlT3ffhcqq">via GIPHY</a></p>
+  <img src="https://media.giphy.com/media/iIGT8Y1rOYhBpdHh1C/giphy.gif" width="100"/>
 </div>
 <div id="badges">
   <a href="https://www.kaggle.com/code/benroshan/transaction-fraud-detection/data">
