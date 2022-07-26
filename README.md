@@ -8,6 +8,6 @@ Project-Fraud-Detection
 </div>
 <div id="badges">
   <a href="https://www.kaggle.com/code/benroshan/transaction-fraud-detection/data">
-    <img src="[https://img.shields.io/badge/Streamlit-red?style=for-the-badge&logo=streamlit&logoColor=red" alt="Streamlit Badge](https://img.shields.io/badge/DataLink-red?style=for-the-badge&logo=streamlit&logoColor=red%22%20alt=%22Streamlit%20Badge)"/>
+    <img src="https://img.shields.io/badge/DataLink-red?style=for-the-badge&logo=streamlit&logoColor=red%22%20alt=%22Streamlit%20Badge"/>
     </a>
 </div>  
