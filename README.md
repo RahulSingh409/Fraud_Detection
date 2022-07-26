@@ -1,7 +1,7 @@
 # FRAUD DETECTION
 Project-Fraud-Detection
 ## Click on the link to view the dataset
-![Project-Fraud-Detection]https://github.com/RahulSingh409/Fraud_Detection/blob/main/Wordcloud.jpg?raw=true "Project-Fraud-Detection
+![Project-Fraud-Detection](https://github.com/RahulSingh409/Fraud_Detection/blob/main/Wordcloud.jpg?raw=true "Project-Fraud-Detection
 ")
 <div id="header">
   <img src="https://media.giphy.com/media/iIGT8Y1rOYhBpdHh1C/giphy.gif" width="100"/>
