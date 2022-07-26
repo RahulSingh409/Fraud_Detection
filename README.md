@@ -8,6 +8,5 @@ Project-Fraud-Detection
 </div>
 <div id="badges">
   <a href="https://www.kaggle.com/code/benroshan/transaction-fraud-detection/data">
-    <img src="https://img.shields.io/badge/Data-red?style=for-the-badge&logo=Data&logoColor=red" alt="Data Link Badge"/>
-  </a>
+    </a>
 </div>  
